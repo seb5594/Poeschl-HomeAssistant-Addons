@@ -1,13 +1,13 @@
 # Migration from Poeschl Home Assistant add-on repostiory
 
-My Home Assistant add-on were moved to the new repository: https://github.com/Poeschl-HomeAssistant-Addons/repository
+My Home Assistant add-ons were moved to the new repository: https://github.com/Poeschl-HomeAssistant-Addons/repository
 
-To migrate your existing addon config and storage find some quick guides below.
+To migrate your existing addon config and storage, you will find some quick guides below.
 
 ## Migrations
 
 Please determine for yourself which one is fitting for you.
-If ifs hard to choose I would recommend the one which transfers the addon data via command line.
+If it's hard to choose, I would recommend the one which transfers the addon data via command line.
 
 Prequisite for all sections below is the integration of the new repository.
 [![Add repository to your Home Assistant instance.][repository-badge]][repository-url]
