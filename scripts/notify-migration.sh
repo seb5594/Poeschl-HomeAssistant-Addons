@@ -2,7 +2,7 @@
 set -e
 bashio::log.warning "This add-on has been moved to a new GitHub repository. See more in the Home Assistant notification."
 bashio::log.warning "The new home of my addons is: https://github.com/Poeschl-HomeAssistant-Addons/repository"
-bashio::log.warning "A migration guide is available here: https://github.com/Poeschl-HomeAssistant-Addons/repository/docs/migrate_from_Poeschl_repository.md"
+bashio::log.warning "A migration guide is available here: https://github.com/Poeschl-HomeAssistant-Addons/repository/blob/main/docs/migrate_from_Poeschl_repository.md"
 
 if ! command -v curl > /dev/null; then
   if [ -f /etc/debian_version ]; then
