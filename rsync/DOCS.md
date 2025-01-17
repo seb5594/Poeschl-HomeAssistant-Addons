@@ -18,7 +18,7 @@ folders:
     destination: /home/user/config-target
   - source: /media/playlists
     destination: /home/user/cool-playlists
-    options: '-archive --recursive --compress'
+    options: '--archive --recursive --compress'
 remote_host: ''
 remote_folder: /home/user
 
@@ -56,4 +56,3 @@ The ip or host of the remote machine you want to connect to.
 ### `remote_port` (optional)
 
 The ssh port on the remote machine. If not set the default `22` is assumed.
-
