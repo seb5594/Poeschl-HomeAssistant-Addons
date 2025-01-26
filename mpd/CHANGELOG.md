@@ -1,9 +1,5 @@
 ## Changes in this version
 
-### 🔨 Maintenance
+### 🚀 Enhancements
 
-- 👷 Add package updater action @Poeschl ([#2](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/2))
-
-### 📚 Documentation
-
-- 📝 Updated docs about integration into HA @Poeschl ([#7](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/7))
+- 🔧 Prevent MPD from disconnecting listeners when playback stops @mrueg ([#8](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/8))
