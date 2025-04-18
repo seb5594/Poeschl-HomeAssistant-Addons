@@ -1,5 +1,5 @@
 ## Changes in this version
 
-### 🚀 Enhancements
+### ⬆️ Dependency updates
 
-- 🔧 Prevent MPD from disconnecting listeners when playback stops @mrueg ([#8](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/8))
+- ⬆️ Bump to alpine 3.21 and mpd 0.23.16 @mrueg ([#9](https://github.com/Poeschl-HomeAssistant-Addons/mpd/pull/9))
