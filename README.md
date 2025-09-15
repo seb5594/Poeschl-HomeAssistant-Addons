@@ -421,7 +421,7 @@ If you are here, seeking help, please look at the issues of the specific addon.
 [pigpio-version-badge]: https://img.shields.io/badge/version-1.6.0-blue.svg
 [pigpio-aarch64-badge]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pigpio-amd64-badge]: https://img.shields.io/badge/amd64-no-red.svg
-[pigpio-armhf-badge]: https://img.shields.io/badge/armhf-yes-green.svg
+[pigpio-armhf-badge]: https://img.shields.io/badge/armhf-no-red.svg
 [pigpio-armv7-badge]: https://img.shields.io/badge/armv7-yes-green.svg
 [pigpio-i386-badge]: https://img.shields.io/badge/i386-no-red.svg
 [rsync-files]: https://github.com/Poeschl-HomeAssistant-Addons/rsync/tree/2.0.0
