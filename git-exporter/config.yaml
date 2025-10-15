@@ -31,6 +31,7 @@ options:
     addons: true
     esphome: true
     node_red: true
+    root_addon_configs: true
   check:
     enabled: true
     check_for_secrets: true
